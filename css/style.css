@@ -1,0 +1,32 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow {
+    background-color: #ffc017; 
+    
+}
+
+
+.btnRadius {
+    border-radius: 99em;
+}
+
+.bg-img {
+   background-image: url("https://miro.medium.com/max/349/4*BIK9VGjeCj2TaTDw4id2nA.png");
+   background-size: 385px 341px;
+   background-repeat: no-repeat;
+   background-position: 150px;
+}
+
+.small-btn {
+    border-radius: 100px;
+    padding: 2px 8px;
+    white-space: nowrap;
+    color: rgba(117, 117, 117, 1);
+    font-size: 13px;
+    position: relative;
+    background-color: rgba(242, 242, 242, 1);
+    font-weight: 400;
+    text-decoration: none;
+
+}
